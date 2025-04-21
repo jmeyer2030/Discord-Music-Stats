@@ -1,8 +1,12 @@
 # Discord Music Stats
 
+## Overview
+
+This is a python script that can be used to view the song requests that you have sent in discord using flavibot. It offers basic analysis which can be interesting.
+
 ## Features
 
-Parses json files of discord messages, and depending on arguments displays:
+depending on arguments displays:
  - user: Each user's most played songs, sorted by the number of songs that user has played, then each song they've played by count
  - total: The most played songs, and the number of times each user has played that songs
 
