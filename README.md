@@ -6,7 +6,7 @@ This is a python script that can be used to view the song requests that you have
 
 ## Features
 
-depending on arguments displays:
+Depending on arguments displays:
  - user: Each user's most played songs, sorted by the number of songs that user has played, then each song they've played by count
  - total: The most played songs, and the number of times each user has played that songs
 
@@ -15,8 +15,8 @@ manual file upload or typing out file paths.
 
 ## Requirements:
 
- - flavibot usage in discord (No other music bot's messages will be processed, this script will not work for other music bots)
- - python
+ - Flavibot usage in discord (No other music bot's messages will be processed, this script will not work for other music bots)
+ - Python
  - Discrub, availible as a chrome extension here
    - https://chromewebstore.google.com/detail/discrub/plhdclenpaecffbcefjmpkkbdpkmhhbj?hl=en-US&pli=1
 
