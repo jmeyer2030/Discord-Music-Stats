@@ -227,9 +227,5 @@ def main():
         print(f"Unknown mode: {mode}, use either 'user' or 'total'")
 
 
-
-
-
-
 if __name__ == '__main__':
     main()
